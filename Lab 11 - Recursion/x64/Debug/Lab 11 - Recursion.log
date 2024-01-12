@@ -1,0 +1,5 @@
+﻿  Task 2.cpp
+  Task 3.cpp
+C:\Users\Administrator\source\repos\Lab 11 - Recursion\Task 3.cpp(33,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Lab 11 - Recursion.vcxproj -> C:\Users\Administrator\source\repos\Lab 11 - Recursion\x64\Debug\Lab 11 - Recursion.exe
